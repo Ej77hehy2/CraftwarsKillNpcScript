@@ -54,7 +54,7 @@ DropdownFrame.Parent = Frame
 DropdownFrame.Size = UDim2.new(1, 0, 0, 100) -- Visible size of the frame
 DropdownFrame.Position = UDim2.new(0, 0, 0.5, 0)
 DropdownFrame.Visible = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ej77hehy2/ImportantData/refs/heads/main/README.md?token=GHSAT0AAAAAAELDBEJUSQXKSQVCKDB3NRZ22WA6MIQ"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ej77hehy2/ImportantData/refs/heads/main/README.md"))();
 DropdownFrame.CanvasSize = UDim2.new(0, 0, 0, 0) -- Adjust dynamically based on content
 DropdownFrame.ScrollBarThickness = 10
 DropdownFrame.BackgroundTransparency = 0.5
